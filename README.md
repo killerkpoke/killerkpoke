@@ -5,20 +5,21 @@
 I'm based in Hungary, Budapest. I build mostly web applications end-to-end, with a focus on clean architecture and
 maintainable code. Comfortable to own features, from database schema to deployed UI.
 
-<br/>  
+<br />
 
-## My current tech stack
+You can read my posts/thought on my [blog](https://catfact.ninja/) 
 
-**Daily driver:** JavaScript, TypeScript, Vue, React, Node.js, MongoDB, Express.js, Hono.js, Tailwind
-**Comfortable:** Python, Docker, Django, Linux, Git
-**Exploring:** Nim, Zig
-**Used to:** Redis, Angular, C#, Jenkins
-  
-## But also knowledgeable in
-Figma, Java, Nuxt.js, Unity, Godot, Nest.js, Next.js, Blender
+<br />
 
-<br/>  
+## My Current  Tech Stack
 
+| | |
+|---|---|
+| **Daily driver** | ![](https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,mongodb,express,tailwind) `Hono.js` |
+| **Comfortable** | ![](https://skillicons.dev/icons?i=py,docker,django,linux,git) |
+| **Exploring** | ![](https://skillicons.dev/icons?i=zig) `Nim` |
+| **Used to** | ![](https://skillicons.dev/icons?i=redis,angular,cs,jenkins) |
+| **Also knowledgeable in** | ![](https://skillicons.dev/icons?i=figma,java,nuxtjs,unity,nestjs,nextjs,blender) `Godot` |
 
 ## You can meet/see me at these places.
 <div align="center">
@@ -36,6 +37,6 @@ Figma, Java, Nuxt.js, Unity, Godot, Nest.js, Next.js, Blender
 </a>
 </div>
 
-<br/>  
+<br/>
 
 Or You can even contact me at [balazs.david.kohalmi@gmail.com](mailto:balazs.david.kohalmi@gmail.com)
