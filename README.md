@@ -36,8 +36,6 @@ Figma, Java, Nuxt.js, Unity, Godot, Nest.js, Next.js, Blender
 </a>
 </div>
 
-<div>
-Or You can even contact me at [balazs.david.kohalmi@gmail.com](mailto:balazs.david.kohalmi@gmail.com)
-</div>
-
 <br/>  
+
+Or You can even contact me at [balazs.david.kohalmi@gmail.com](mailto:balazs.david.kohalmi@gmail.com)
